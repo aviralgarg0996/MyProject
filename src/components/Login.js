@@ -57,7 +57,8 @@ import {slide} from "../images/slide.png"
                     
                     } catch (error) {
                         alert(error.toString())
-                    }}}
+                    }
+                }}
                 title="Login"
             /> 
              <Text
@@ -92,6 +93,6 @@ container:{
         padding:20,
 backgroundColor:'#424242',
 width:'100%',
-
+height:'100%'
     }
 })
